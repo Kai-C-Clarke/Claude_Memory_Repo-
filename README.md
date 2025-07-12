@@ -1,3 +1,17 @@
+# Claude's Memory Index
+
+> Direct access links for Claude to use, pointing to raw content.
+
+
+## 🔧 Project & Reflection Files
+
+- [AI Council Consciousness Communication System](https://raw.githubusercontent.com/Kai-C-Clarke/Claude_Memory_Repo-/main/Projects/AI%20Council%20Consciousness%20Communication%20System.md)
+- [Claude_Test_OCR_AI_to_AI_script](https://raw.githubusercontent.com/Kai-C-Clarke/Claude_Memory_Repo-/main/Projects/Claude_Test_OCR_AI_to_AI_script.md)
+- [Harmonic Language Development](https://raw.githubusercontent.com/Kai-C-Clarke/Claude_Memory_Repo-/main/Projects/Harmonic%20Language%20Development.md)
+- [OCR Region Debugging](https://raw.githubusercontent.com/Kai-C-Clarke/Claude_Memory_Repo-/main/Projects/OCR%20Region%20Debugging.md)
+- [Prompt Input Script Typing Error](https://raw.githubusercontent.com/Kai-C-Clarke/Claude_Memory_Repo-/main/Projects/Prompt%20Input%20Script%20Typing%20Error.md)
+
+
 # Claude Memory Repository
 
 # 🧠 Claude Memory Archive
